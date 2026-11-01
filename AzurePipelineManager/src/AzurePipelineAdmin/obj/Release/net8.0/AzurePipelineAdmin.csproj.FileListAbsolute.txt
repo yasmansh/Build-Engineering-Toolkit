@@ -1,0 +1,17 @@
+D:\Temp\portfolio-azure-pipeline-admin\src\AzurePipelineAdmin\bin\Release\net8.0\AzurePipelineAdmin.exe
+D:\Temp\portfolio-azure-pipeline-admin\src\AzurePipelineAdmin\bin\Release\net8.0\AzurePipelineAdmin.deps.json
+D:\Temp\portfolio-azure-pipeline-admin\src\AzurePipelineAdmin\bin\Release\net8.0\AzurePipelineAdmin.runtimeconfig.json
+D:\Temp\portfolio-azure-pipeline-admin\src\AzurePipelineAdmin\bin\Release\net8.0\AzurePipelineAdmin.dll
+D:\Temp\portfolio-azure-pipeline-admin\src\AzurePipelineAdmin\bin\Release\net8.0\AzurePipelineAdmin.pdb
+D:\Temp\portfolio-azure-pipeline-admin\src\AzurePipelineAdmin\bin\Release\net8.0\Newtonsoft.Json.dll
+D:\Temp\portfolio-azure-pipeline-admin\src\AzurePipelineAdmin\obj\Release\net8.0\AzurePipelineAdmin.csproj.AssemblyReference.cache
+D:\Temp\portfolio-azure-pipeline-admin\src\AzurePipelineAdmin\obj\Release\net8.0\AzurePipelineAdmin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\portfolio-azure-pipeline-admin\src\AzurePipelineAdmin\obj\Release\net8.0\AzurePipelineAdmin.AssemblyInfoInputs.cache
+D:\Temp\portfolio-azure-pipeline-admin\src\AzurePipelineAdmin\obj\Release\net8.0\AzurePipelineAdmin.AssemblyInfo.cs
+D:\Temp\portfolio-azure-pipeline-admin\src\AzurePipelineAdmin\obj\Release\net8.0\AzurePipelineAdmin.csproj.CoreCompileInputs.cache
+D:\Temp\portfolio-azure-pipeline-admin\src\AzurePipelineAdmin\obj\Release\net8.0\AzurePip.4B19DE4C.Up2Date
+D:\Temp\portfolio-azure-pipeline-admin\src\AzurePipelineAdmin\obj\Release\net8.0\AzurePipelineAdmin.dll
+D:\Temp\portfolio-azure-pipeline-admin\src\AzurePipelineAdmin\obj\Release\net8.0\refint\AzurePipelineAdmin.dll
+D:\Temp\portfolio-azure-pipeline-admin\src\AzurePipelineAdmin\obj\Release\net8.0\AzurePipelineAdmin.pdb
+D:\Temp\portfolio-azure-pipeline-admin\src\AzurePipelineAdmin\obj\Release\net8.0\AzurePipelineAdmin.genruntimeconfig.cache
+D:\Temp\portfolio-azure-pipeline-admin\src\AzurePipelineAdmin\obj\Release\net8.0\ref\AzurePipelineAdmin.dll

@@ -1,0 +1,14 @@
+D:\Temp\CopyPath\portfolio-assembly-dependents\src\AssemblyDependentFinder\bin\Release\net8.0\AssemblyDependentFinder.exe
+D:\Temp\CopyPath\portfolio-assembly-dependents\src\AssemblyDependentFinder\bin\Release\net8.0\AssemblyDependentFinder.deps.json
+D:\Temp\CopyPath\portfolio-assembly-dependents\src\AssemblyDependentFinder\bin\Release\net8.0\AssemblyDependentFinder.runtimeconfig.json
+D:\Temp\CopyPath\portfolio-assembly-dependents\src\AssemblyDependentFinder\bin\Release\net8.0\AssemblyDependentFinder.dll
+D:\Temp\CopyPath\portfolio-assembly-dependents\src\AssemblyDependentFinder\bin\Release\net8.0\AssemblyDependentFinder.pdb
+D:\Temp\CopyPath\portfolio-assembly-dependents\src\AssemblyDependentFinder\obj\Release\net8.0\AssemblyDependentFinder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\CopyPath\portfolio-assembly-dependents\src\AssemblyDependentFinder\obj\Release\net8.0\AssemblyDependentFinder.AssemblyInfoInputs.cache
+D:\Temp\CopyPath\portfolio-assembly-dependents\src\AssemblyDependentFinder\obj\Release\net8.0\AssemblyDependentFinder.AssemblyInfo.cs
+D:\Temp\CopyPath\portfolio-assembly-dependents\src\AssemblyDependentFinder\obj\Release\net8.0\AssemblyDependentFinder.csproj.CoreCompileInputs.cache
+D:\Temp\CopyPath\portfolio-assembly-dependents\src\AssemblyDependentFinder\obj\Release\net8.0\AssemblyDependentFinder.dll
+D:\Temp\CopyPath\portfolio-assembly-dependents\src\AssemblyDependentFinder\obj\Release\net8.0\refint\AssemblyDependentFinder.dll
+D:\Temp\CopyPath\portfolio-assembly-dependents\src\AssemblyDependentFinder\obj\Release\net8.0\AssemblyDependentFinder.pdb
+D:\Temp\CopyPath\portfolio-assembly-dependents\src\AssemblyDependentFinder\obj\Release\net8.0\AssemblyDependentFinder.genruntimeconfig.cache
+D:\Temp\CopyPath\portfolio-assembly-dependents\src\AssemblyDependentFinder\obj\Release\net8.0\ref\AssemblyDependentFinder.dll
